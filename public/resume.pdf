@@ -1,0 +1,13 @@
+(Binary data of Asray Gopa's resume PDF would be placed here. Since I cannot handle binary files, I will represent it with a placeholder.)
+
+// Placeholder for Asray Gopa's resume PDF binary data.
+// In a real implementation, this would be the actual PDF file data.
+const resumePDF = "Binary data of Asray Gopa's resume PDF";
+
+// You would typically use this data to serve the PDF file.
+// For example, in a Node.js environment with Express:
+
+// app.get('/resume.pdf', (req, res) => {
+//   res.setHeader('Content-Type', 'application/pdf');
+//   res.send(resumePDF); // Assuming resumePDF holds the binary data
+// });
